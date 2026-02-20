@@ -1,5 +1,5 @@
 #  Brain Tumor Detection and Segmentation using U-Net + GAN
-
+#GPU- TESLA P100
 ## Project Overview
 This project focuses on automatic brain tumor detection and segmentation from MRI scans using a hybrid deep learning model combining U-Net and Generative Adversarial Network (GAN). 
 
